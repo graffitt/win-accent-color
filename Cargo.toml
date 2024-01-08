@@ -2,7 +2,7 @@
 name = "win-accent-color"
 version = "0.1.0"
 authors = ["Kostiantyn Lisovets"]
-description = ""
+description = "Rust crate to get Windows accent color"
 keywords = ["windows", "accent color", "accent", "color"]
 license = "MIT"
 readme = "README.md"
