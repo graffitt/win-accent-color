@@ -1,0 +1,17 @@
+[package]
+name = "win-accent-color"
+version = "0.1.0"
+authors = ["Kostiantyn Lisovets"]
+description = ""
+keywords = ["windows", "accent color", "accent", "color"]
+license = "MIT"
+readme = "README.md"
+repository = ""
+edition = "2021"
+
+[dependencies]
+regex = "1.10.2"
+winreg = "0.52.0"
+
+[package.metadata.docs.rs]
+default-target = "x86_64-pc-windows-msvc"
